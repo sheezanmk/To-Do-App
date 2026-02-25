@@ -1,4 +1,4 @@
-package com.example.todo;
+package com.example.todo.entities.Category;
 
 import java.util.List;
 
@@ -6,6 +6,7 @@ import com.example.todo.dtos.CreateCategoryDto;
 import com.example.todo.dtos.UpdateCategoryDto;
 import com.example.todo.entities.Category.Category;
 import com.example.todo.entities.Todo.Todo;
+import com.example.todo.entities.Todo.TodoRepository;
 import org.springframework.stereotype.Service;
 
 @Service

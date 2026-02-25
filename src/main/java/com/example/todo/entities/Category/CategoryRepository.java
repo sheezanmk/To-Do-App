@@ -1,4 +1,4 @@
-package com.example.todo;
+package com.example.todo.entities.Category;
 
 import com.example.todo.entities.Category.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
